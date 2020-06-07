@@ -7,3 +7,5 @@ O arquivo deve ser formado da seguinte forma:
 Na primeira linha: Número de pontos (x).
 Para cada uma das x linhas a seguir, devem ser inseridas a latitude e a longitude de um ponto, separadas por espaço.
 
+O código era destinado para alocar telescópios nos pontos, então os nomes das variáveis têm relação com isso.
+
